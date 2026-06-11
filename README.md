@@ -173,6 +173,7 @@ Create a `screenshots` folder and add screenshots for:
 
 * Dashboard
   ![Dashboard](screenshots/dashboard.png)
+  ![Dashboard](screenshots/dashboard_1.png)
 * Login Page
   ![Login](screenshots/login.png)
 * Registration Page
@@ -184,7 +185,9 @@ Create a `screenshots` folder and add screenshots for:
 * Dining Panel
   ![Dining](screenshots/dining.png)
 * Staff Panel
+  ![Staff](screenshots/staff.png)
 * Chatbot Interface
+* ![Chatbot](screenshots/chatbot.png)
 
 ---
 
